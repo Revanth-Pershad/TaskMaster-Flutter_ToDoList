@@ -1,16 +1,17 @@
-# todo
+# Task Master Flutter App
 
-A new Flutter project.
+A simple Flutter app for managing tasks. It allows users to create, delete, and strike off tasks, with data persisting locally using the Hive database.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Create new tasks
+- Delete existing tasks
+- Strike off completed tasks
+- Tasks are stored locally using Hive database for persistent storage
 
-A few resources to get you started if this is your first Flutter project:
+## Home Page
+<img src="https://github.com/user-attachments/assets/08497cb7-c1bb-41a7-ba6b-629cc8a1e2fd" alt="Home Page Screenshot 1" width="300"/>
+<img src="https://github.com/user-attachments/assets/054210af-9271-4274-b4b0-4fdec3625835" alt="Home Page Screenshot 2" width="300"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Create New Task
+<img src="https://github.com/user-attachments/assets/d574773e-efb5-404f-aad7-cb0c64c1524b" alt="Create New Task Screenshot" width="300"/>
